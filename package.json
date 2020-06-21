@@ -1,6 +1,6 @@
 {
-  "name": "react-graphesque",
-  "version": "1.0.0",
+  "name": "@graphesque/react-graphesque",
+  "version": "0.0.1-alpha.0",
   "description": "a React library for building graphing libraries",
   "author": "graphesque",
   "license": "MIT",
